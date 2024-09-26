@@ -1,5 +1,6 @@
 rencana konten gidian 
 - bikin video perkenalan diri
+- vlog sehari-hari
 - vlog coding
 - vlog belajar
 - vlog matematika
