@@ -2,3 +2,4 @@ rencana konten gidian
 - bikin video perkenalan diri
 - vlog
 - vlog belajar
+- vlog matematika
